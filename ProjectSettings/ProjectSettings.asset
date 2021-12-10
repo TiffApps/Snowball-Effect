@@ -592,7 +592,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     1: MOREMOUNTAINS_NICEVIBRATIONS
     4: 
-    7: 
+    7: MOREMOUNTAINS_NICEVIBRATIONS
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
